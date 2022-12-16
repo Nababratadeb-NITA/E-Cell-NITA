@@ -1,0 +1,7 @@
+jsonp3066({
+  "error" : "access_denied",
+  "site_cookie_domain" : ".forbes.com",
+  "email_confirmation_required" : false,
+  "extend_expired_access_enabled" : false,
+  "authorized_by_sso" : false
+})

@@ -1,0 +1,1 @@
+!function(){var o=null;if(window._bmb&&!window._bmb.x){_bmb.x=function(){var n=Array.prototype.slice.call(arguments),b=n[0],n=n[1];"vi"==b&&"function"==typeof n&&n.call(null,o)};for(var n=0;n<window._bmb.q.length;n++)window._bmb.x.apply(null,window._bmb.q[n])}}();
