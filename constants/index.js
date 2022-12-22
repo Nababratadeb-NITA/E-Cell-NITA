@@ -3,7 +3,7 @@ export const exploreWorlds = [
   {
     id: "world-1",
     imgUrl: "/planet-04.png",
-    title: "THE INITIATE",
+    title: "INITIATE",
     link: "https://www.instagram.com/p/Cl0cy3uPz8G/",
   },
   {
@@ -15,13 +15,13 @@ export const exploreWorlds = [
   {
     id: "world-3",
     imgUrl: "/planet-02.png",
-    title: "THE ILLUMINATE",
+    title: "ILLUMINATE",
     link: "https://www.instagram.com/p/CcyH8zvvsIk/",
   },
   {
     id: "world-4",
     imgUrl: "/planet-01.png",
-    title: "THE IGNITE",
+    title: "IGNITE",
     link: "https://www.instagram.com/p/CRCVA7HMNB-/",
   },
   {
