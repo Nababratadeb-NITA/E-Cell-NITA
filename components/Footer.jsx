@@ -61,7 +61,7 @@ const Footer = () => {
               {socials.map((social) => (
                 <a href={social.link} target="_blank" rel="noopener noreferrer">
                   <img
-                    key={social.name}
+                    key={social.link}
                     src={social.url}
                     alt={social.name}
                     className="w-[24px] h-[24px] object-contain cursor-pointer"

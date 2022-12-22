@@ -46,7 +46,7 @@ const TeamCard = ({
             />
           </div>
         </a>
-        <h2 className="mt-[24px] sm:mt-[2px] font-semibold sm:text-[32px] text-[24px] text-white">
+        <h2 className="mt-[24px]  sm:mt-[2px] font-semibold sm:text-[32px] text-[24px] text-white">
           {title}
         </h2>
         <p className="font-normal mt-2 text-[16px] leading-[20.16px] text-white uppercase">
