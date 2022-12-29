@@ -27,8 +27,7 @@ const Explore = () => {
         <TitleText
           title={
             <>
-              Choose the event you want <br className="md:block hidden" /> to
-              explore
+              EXPLORE OUR PAST <br className="md:block hidden" /> EVENTS
             </>
           }
           textStyles="text-center"

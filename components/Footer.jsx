@@ -25,19 +25,19 @@ const Footer = () => {
             Contact With E-Cell
           </h4>
           <p className="font-bold md:text-[15px] text-[14px] text-white">
-            Akshat Srivastava (+91 8787226324) [For E-Cell Realted Quaries]
+            Akshat Srivastava [For E-Cell Realted Quaries]
           </p>
           <p className="font-bold md:text-[15px] text-[14px] text-white">
-            Nababrata Deb (+91 9366093376) [For Website Realted Issues]
+            Nababrata Deb [For Website Realted Issues]
           </p>
           <button
             type="button"
             onClick={() => router.push("/contactus")}
             className="flex items-center h-fit py-4 px-6 bg-[#25618B] rounded-[32px] gap-[12px]">
             <img
-              src="/headset.svg"
+              src="/phone.png"
               alt="headset"
-              className="w-[24px] h-[24px] object-contain"
+              className="w-[32px] h-[32px] object-contain"
             />
             <span className="font-normal  text-[16px] text-white">
               Contact Us

@@ -20,7 +20,12 @@ const World = () => (
       className={`${styles.innerWidth} mx-auto flex flex-col`}>
       <TypingText title="| Know The Alumni" textStyles="text-center" />
       <TitleText
-        title={<>The Alumni NetWork Of Our E-Cell Across The World</>}
+        title={
+          <>
+            Networking, interacting and staying in touch — the alumni network
+            offers students a host of benefits.
+          </>
+        }
         textStyles="text-center"
       />
 

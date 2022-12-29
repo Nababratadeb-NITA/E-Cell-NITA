@@ -33,8 +33,8 @@ export const exploreWorlds = [
 ];
 
 export const startingFeatures = [
-  "E-Cell aims to create a startup ecosystem in the NIT Agartala and as well as in Northeastern states.",
-  "For creating an ecosystem, E-Cell NITA has organized many events like Carpedium, IGNITE, ILLUMINATE, INIZIO and many more. ",
+  "E-Cell, NITA aims to build a startup ecosystem in the college as well as in the other North-eastern states.",
+  "We have organised various workshops, events, talks involving established entrepreneurs to inspire and guide students. We have organised events like CARPEDIUM, IGNITE, ILLUMINATE, INIZIO and many more",
   "E-Cell has signed several MOU's with VC firms and Angle Investors like 10k startup, IIM Kolkata and many more.",
 ];
 
