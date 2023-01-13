@@ -26,7 +26,7 @@ You are in charge of your data and customizations.
 1. Clone the project
 
 ```sh
-$ git clone https://github.com/Nababratadeb-NITA/Artism.git
+$ https://github.com/Nababratadeb-NITA/E-Cell-NITA.git
 ```
 
 2. Install the dependencies:
