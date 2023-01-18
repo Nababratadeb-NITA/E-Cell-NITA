@@ -25,10 +25,10 @@ const Footer = () => {
             Contact With E-Cell
           </h4>
           <p className="font-bold md:text-[15px] text-[14px] text-white">
-            Akshat Srivastava [For E-Cell Realted Quaries]
+            Akshat Srivastava [For E-Cell Related Queries]
           </p>
           <p className="font-bold md:text-[15px] text-[14px] text-white">
-            Nababrata Deb [For Website Realted Issues]
+            Nababrata Deb [For Website Related Issues]
           </p>
           <button
             type="button"
@@ -50,10 +50,10 @@ const Footer = () => {
 
           <div className="flex items-center justify-between flex-wrap gap-4">
             <h4 className="font-extrabold text-[24px] text-white">
-              Entreprenurship Cell
+              Entrepreneurship Cell
             </h4>
             <p className="font-normal text-[14px] text-white opacity-50">
-              ©Developed by Teach Team | E-Cell | NIT Agartala. <br /> All
+              ©Developed by Tech Team | E-Cell | NIT Agartala. <br /> All
               rights reserved.
             </p>
 

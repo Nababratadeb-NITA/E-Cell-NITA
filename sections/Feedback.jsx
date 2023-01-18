@@ -43,7 +43,7 @@ const Feedback = () => (
         variants={fadeIn("left", "tween", 0.2, 1)}
         className="relative flex-1 flex justify-center items-center">
         <img
-          src="/steve.jpg"
+          src="steve.webp"
           alt="planet-09"
           className="w-full lg:h-[610px] h-auto min-h-[210px] object-cover rounded-[40px]"
         />

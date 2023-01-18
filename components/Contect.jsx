@@ -24,7 +24,7 @@ const Contect = () => {
               <p className="text-xl text-white pb-8 leading-relaxed font-normal lg:pr-4">
                 Got a question about us? Are you interested in joing with us?
                 Have some suggestions or just want to say Hi? Just contact us.
-                We are here to asset you.
+                We are here to assist you.
               </p>
               <div className="flex pb-4 items-center">
                 <div>
@@ -148,7 +148,7 @@ const Contect = () => {
         </div>
         <div className="flex mt-4 px-4 items-center justify-between flex-wrap gap-4">
           <h4 className="font-extrabold text-[24px] text-white">
-            Entreprenurship Cell
+            Entrepreneurship Cell
           </h4>
           <p className="font-normal text-[14px] text-white opacity-50">
             ©Developed by Teach Team | E-Cell | NIT Agartala. <br /> All rights
