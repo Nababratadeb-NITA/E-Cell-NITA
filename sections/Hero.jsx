@@ -35,7 +35,7 @@ const Hero = () => (
         {/* <div className="absolute w-full h-[300px] hero-gradient rounded-tl-[140px] z-[0] -top-[10px]" /> */}
 
         <img
-          src="/planet-09.png"
+          src="https://res.cloudinary.com/djzml9nau/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1672834829/planet-09_umeiet.jpg"
           alt="hero_cover"
           className="w-full sm:h-[500px] h-[400px] object-cover rounded-tl-[140px] z-10 relative"
         />
