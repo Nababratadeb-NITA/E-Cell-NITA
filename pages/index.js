@@ -8,7 +8,6 @@ import {
   Hero,
   // Insights,
   WhatsNew,
-  World,
 } from "../sections";
 
 const Home = () => (
@@ -25,7 +24,6 @@ const Home = () => (
       <div className="gradient-04 z-0" />
       <WhatsNew />
     </div>
-    <World />
     <div className="relative">
       {/* <Insights /> */}
       <div className="gradient-04 z-0" />

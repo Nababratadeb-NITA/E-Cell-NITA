@@ -14,9 +14,9 @@ export const exploreWorlds = [
   },
   {
     id: "world-3",
-    imgUrl: "/planet-02.png",
-    title: "ILLUMINATE",
-    link: "https://www.instagram.com/p/CcyH8zvvsIk/",
+    imgUrl: "/planet-05.png",
+    title: "CARPEDIEM 3.0",
+    link: "https://www.instagram.com/p/CHDBQizllK6/",
   },
   {
     id: "world-4",
@@ -26,9 +26,9 @@ export const exploreWorlds = [
   },
   {
     id: "world-5",
-    imgUrl: "/planet-05.png",
-    title: "CARPEDIEM 2.0",
-    link: "https://www.instagram.com/p/CHDBQizllK6/",
+    imgUrl: "/planet-02.png",
+    title: "ILLUMINATE",
+    link: "https://www.instagram.com/p/CcyH8zvvsIk/",
   },
 ];
 
