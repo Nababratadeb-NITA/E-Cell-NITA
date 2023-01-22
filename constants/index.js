@@ -1,4 +1,7 @@
 /* eslint-disable quotes */
+
+// import { AiOutlineTeam } from "react-icons/ai";
+
 export const exploreWorlds = [
   {
     id: "world-1",
@@ -8,19 +11,22 @@ export const exploreWorlds = [
   },
   {
     id: "world-2",
-    imgUrl: "/planet-03.png",
+    imgUrl:
+      "https://res.cloudinary.com/djzml9nau/image/upload/v1674374806/20220910060234_IMG_7687_s6gn7y.jpg",
     title: "INIZIO",
     link: "https://www.instagram.com/p/CicqtmhPpuU/",
   },
   {
     id: "world-3",
-    imgUrl: "/planet-05.png",
+    imgUrl:
+      "https://res.cloudinary.com/djzml9nau/image/upload/v1674374981/DSC_0057_uyyjnm.jpg",
     title: "CARPEDIEM 3.0",
     link: "https://www.instagram.com/p/CHDBQizllK6/",
   },
   {
     id: "world-4",
-    imgUrl: "/planet-01.png",
+    imgUrl:
+      "https://res.cloudinary.com/djzml9nau/image/upload/v1674374942/IMG_0233_vptuuz.jpg",
     title: "IGNITE",
     link: "https://www.instagram.com/p/CRCVA7HMNB-/",
   },
@@ -94,6 +100,13 @@ export const socials = [
 
 export const teamMambers = [
   {
+    id: "1",
+    imgUrl: "/aksh.jpg",
+    title: "Akshat Srivastava",
+    subtitle: "President",
+    link: "https://www.linkedin.com/in/akshatsrivastava01/",
+  },
+  {
     id: "2",
     imgUrl: "/krish.jpg",
     title: "Krishna Chandak",
@@ -106,13 +119,6 @@ export const teamMambers = [
     title: "Hemant Shankar",
     subtitle: "Head Of Operation",
     link: "https://www.linkedin.com/in/hemant-shankar/",
-  },
-  {
-    id: "1",
-    imgUrl: "/aksh.jpg",
-    title: "Akshat Srivastava",
-    subtitle: "President",
-    link: "https://www.linkedin.com/in/akshatsrivastava01/",
   },
   {
     id: "4",
@@ -128,9 +134,6 @@ export const teamMambers = [
     subtitle: "Head of Finence",
     link: "https://www.instagram.com/p/CHDBQizllK6/",
   },
-];
-
-export const part2 = [
   {
     id: "6",
     imgUrl: "/deep.jpg",
@@ -163,12 +166,9 @@ export const part2 = [
     id: "10",
     imgUrl: "/dha.jpg",
     title: "Dharun Shankar",
-    subtitle: "Head of Startup Development Team",
+    subtitle: "Head of Startup Development",
     link: "https://www.linkedin.com/in/dharun-shankar/",
   },
-];
-
-export const part3 = [
   {
     id: "11",
     imgUrl: "/sri.jpg",
