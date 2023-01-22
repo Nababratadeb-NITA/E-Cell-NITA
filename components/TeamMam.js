@@ -11,7 +11,7 @@ import { motion } from "framer-motion";
 import styles from "../styles";
 import { staggerContainer } from "../utils/motion";
 import { TitleText, TypingText } from "../components";
-import { part2, part3, teamMambers } from "../constants";
+import { teamMambers } from "../constants";
 import TeamCard from "./TeamCard";
 
 const TeamMam = () => {
@@ -23,7 +23,7 @@ const TeamMam = () => {
         initial="hidden"
         whileInView="show"
         viewport={{ once: false, amount: 0.25 }}
-        className={`${styles.innerWidth} mx-auto flex flex-col`}>
+        className={`${styles.innerWidth} mx-auto flex justify-center items-center space-y-5 flex-col`}>
         <TypingText title="| The Team" textStyles="text-center" />
         <TitleText
           title={
@@ -34,33 +34,9 @@ const TeamMam = () => {
           }
           textStyles="text-center"
         />
-        <div className="mt-[50px] flex lg:flex-row flex-col min-h-[50vh] gap-5">
+        <div className="grid lg:grid-cols-4 sm:grid-cols-3 xs:grid-cols-2 grid-cols-1 gap-3">
           {" "}
           {teamMambers.map((world, index) => (
-            <TeamCard
-              key={world.id}
-              {...world}
-              index={index}
-              active={active}
-              handleClick={setActive}
-            />
-          ))}
-        </div>
-        <div className="mt-[50px] flex lg:flex-row flex-col min-h-[50vh] gap-5">
-          {" "}
-          {part2.map((world, index) => (
-            <TeamCard
-              key={world.id}
-              {...world}
-              index={index}
-              active={active}
-              handleClick={setActive}
-            />
-          ))}
-        </div>
-        <div className="mt-[50px] flex lg:flex-row flex-col min-h-[50vh] gap-5">
-          {" "}
-          {part3.map((world, index) => (
             <TeamCard
               key={world.id}
               {...world}
