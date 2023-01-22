@@ -124,7 +124,7 @@ export const teamMambers = [
     id: "4",
     imgUrl: "/naba.jpg",
     title: "Nababrata Deb",
-    subtitle: "Head Of Technical Operations",
+    subtitle: "Head Of Technical",
     link: "https://www.linkedin.com/in/nababratadeb/",
   },
   {
