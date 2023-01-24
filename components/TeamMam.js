@@ -26,13 +26,8 @@ const TeamMam = () => {
         className={`${styles.innerWidth} mx-auto flex justify-center items-center space-y-5 flex-col`}>
         <TypingText title="| The Team" textStyles="text-center" />
         <TitleText
-          title={
-            <>
-              Meet The Top 10% Inteligent <br className="md:block hidden" />{" "}
-              People Of NITA
-            </>
-          }
-          textStyles="text-center"
+          title={<>Senior Core Team Of E-Cell NIT Agartala</>}
+          textStyles="text-center "
         />
         <div className="grid lg:grid-cols-4 sm:grid-cols-3 xs:grid-cols-2 grid-cols-1 gap-3">
           {" "}

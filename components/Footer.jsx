@@ -24,12 +24,6 @@ const Footer = () => {
           <h4 className="font-bold md:text-[64px] text-[44px] text-white">
             Contact With E-Cell
           </h4>
-          <p className="font-bold md:text-[15px] text-[14px] text-white">
-            Akshat Srivastava [For E-Cell Realted Quaries]
-          </p>
-          <p className="font-bold md:text-[15px] text-[14px] text-white">
-            Nababrata Deb [For Website Realted Issues]
-          </p>
           <button
             type="button"
             onClick={() => router.push("/contactus")}

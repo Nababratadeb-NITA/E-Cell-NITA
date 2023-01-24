@@ -13,7 +13,7 @@ const Contect = () => {
   };
 
   return (
-    <div className={`${styles.xPaddings} py-8 relative`}>
+    <div className={`${styles.xPaddings} mt-6 py-8 relative`}>
       <div className="container mx-auto">
         <div className="lg:flex">
           <div className="xl:w-2/5 lg:w-2/5 bg-transparent py-16 xl:rounded-bl rounded-tl rounded-tr xl:rounded-tr-none">
