@@ -34,7 +34,7 @@ const WhatsNew = () => (
         variants={planetVariants("right")}
         className={`flex-1 ${styles.flexCenter}`}>
         <img
-          src="/whats-new.png"
+          src="https://imgs.search.brave.com/SPYqOnpasgmUzl42YtJcrCsaCia4R7Rd-jOkrAasq7M/rs:fit:693:450:1/g:ce/aHR0cHM6Ly9jZG5p/Lmljb25zY291dC5j/b20vaWxsdXN0cmF0/aW9uL3ByZW1pdW0v/dGh1bWIvc3RhcnR1/cC0zNzQ1MDk0LTMx/MjgxMDQucG5n"
           alt="get-started"
           className="w-[90%] h-[90%] object-contain"
         />
